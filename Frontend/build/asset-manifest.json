@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9be9f8c5.css",
+    "main.js": "/static/js/main.22558266.js",
+    "static/js/453.bda0101a.chunk.js": "/static/js/453.bda0101a.chunk.js",
+    "static/media/eventcard3.jpg": "/static/media/eventcard3.461e5559eebbe5a3839c.jpg",
+    "static/media/eventcard4.jpg": "/static/media/eventcard4.6a88fd1ce6eaa4faf359.jpg",
+    "static/media/event3.jpg": "/static/media/event3.45a52fb176f25f4dd914.jpg",
+    "static/media/event1.jpg": "/static/media/event1.862945bbd8f55b4f76f0.jpg",
+    "static/media/eventbg.jpg": "/static/media/eventbg.862945bbd8f55b4f76f0.jpg",
+    "static/media/eventcard1.jpg": "/static/media/eventcard1.bce1bc83afba28bfdc2a.jpg",
+    "static/media/contactbg.jpg": "/static/media/contactbg.13b798d6ec4d62e3e4d2.jpg",
+    "static/media/eventcard2.jpg": "/static/media/eventcard2.526c2c422405e49770bb.jpg",
+    "static/media/Img1.jpg": "/static/media/Img1.e1d002c0ba3aead3b66c.jpg",
+    "index.html": "/index.html",
+    "main.9be9f8c5.css.map": "/static/css/main.9be9f8c5.css.map",
+    "main.22558266.js.map": "/static/js/main.22558266.js.map",
+    "453.bda0101a.chunk.js.map": "/static/js/453.bda0101a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9be9f8c5.css",
+    "static/js/main.22558266.js"
+  ]
+}
